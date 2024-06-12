@@ -1,4 +1,4 @@
-### Hello there, I'm Arthur Sauer Germano.
+### Hello there 👋, I'm Arthur Sauer Germano.
 
 💻 I enjoy coding and learning about software <br>
 📚 Currently in the last semester of Systems Analysis and Development
