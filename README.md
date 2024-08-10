@@ -1,7 +1,7 @@
 ### Hello there 👋, I'm Arthur Sauer Germano.
 
 💻 I enjoy coding and learning about software <br>
-📚 Currently in the last semester of Systems Analysis and Development
+📚 Graduated in Systems Analysis and Development
 
 <div>
   <a href="https://github.com/anuraghazra/github-readme-stats">
